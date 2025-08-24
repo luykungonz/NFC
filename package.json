@@ -1,0 +1,17 @@
+{
+  "name": "nodenfc",
+  "version": "1.0.0",
+  "description": "Web App NFC Reader and Writer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gonz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "ndef": "^0.2.0",
+    "nfc-pcsc": "^0.8.1",
+    "socket.io": "^4.8.1"
+  }
+}
